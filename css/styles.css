@@ -1160,6 +1160,14 @@ footer.dunkel h3, p.hell{
     color: white;
 }
 
+footer.poesie{
+    margin-top: 1250px;
+}
+
+.margin-top{
+    margin-top: 100px;
+}
+
 .fusszeile, .fusszeile-dunkel{
     background-color: #ef7701;
     padding: 0.4px;
